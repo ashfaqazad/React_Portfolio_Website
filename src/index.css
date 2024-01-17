@@ -1,0 +1,35 @@
+body{
+  font-family: sans-serif;
+  
+}
+
+
+*{
+  margin: 0;
+  padding: 0;;
+}
+a{
+  text-decoration: none;
+}
+img{
+  width: 80px;
+  margin-right: 20px;
+  
+}
+.carousel-item img{
+  height: 520px;
+  object-fit: cover;
+}
+.card-img-top{
+  height: 200px;
+}
+.col-sx-12.col-md-6 img{
+height: 300px;
+width: 500px;
+}
+.active-styles{
+  border-bottom: double orange !important;
+  
+  
+}
+
